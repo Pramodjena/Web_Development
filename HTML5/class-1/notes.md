@@ -2,19 +2,20 @@
 
 - `shift + !`
 
-# Head Tag :
+## Head Tag :
 
 - Title
 - SEO
 - Meta Tags
 - Favicon
 
-# Body Tag :
+## Body Tag :
 
 - Contents
 
-## Heading Tag :
+## Tags in HTML :
 
+```js
 h1 - Top Priority Heading ( Heading )
 h2 -
 h3 -
@@ -50,4 +51,4 @@ h6 -
 - <sup> - Superscript tag
 - <sub> - Subscript tag
 
-
+```
