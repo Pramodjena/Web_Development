@@ -1,0 +1,28 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+#heading {
+  color: aqua;
+}
+
+#sub_heading {
+  color: chartreuse;
+}
+
+.paragraph {
+  background-color: cadetblue;
+  color: crimson;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+h1,
+h2 {
+  background-color: cadetblue;
+}
